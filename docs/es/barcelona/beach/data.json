@@ -1,7 +1,7 @@
 {
     "meta": {
-        "app_id": "es.espinr.bcn_beach",
-        "app_title": "BCN Beaches",
+        "app_id": "es.espinr.cars_alonso",
+        "app_title": "Coches de Fernando Alonso",
         "version": 7,
         "updated": "2023-01-03",
         "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/es/barcelona/beach/data.json",
@@ -187,9 +187,6 @@
          "pois" : [
           {
             "id" : "99400270692",
-            "type" : "beach",
-            "lon" : "2.1952328977717435",
-            "lat" : "41.38346152967781",
             "name" : "Platja del Somorrostro",
             "description" : "Platja a la Barceloneta",
             "more" : "Amb aproximadament 522 metres de llargada, la platja del Somorrostro està situada entre l'espigó del Gas i el moll de Marina. Es pot dir que, en el litoral de la ciutat, aquesta platja encarna, entre d'altres valors, la recuperació de la memòria històrica. No fa gaires anys, aquest tram del litoral, juntament amb una part de la platja de la Barceloneta i les actuals platges de la Nova Icària i el Bogatell, va acollir el barri de barraques del Somorrostro, en el qual van arribar a viure unes 15.000 persones en condicions molt precàries.",
@@ -333,8 +330,8 @@
             "type" : "beach",
             "lon" : "2.1913705593606174",
             "lat" : "41.37714207928898",
-            "name" : "Platja de Sant Miquel",
-            "description" : "Platja a la Barceloneta",
+            "name" : "Museo de Fernando Alonso",
+            "description" : "Museo de Fernando Alonso",
             "more" : "Wikimedia CC-BY: IonutDragu",
             "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Barcelona_-_panoramio_%2853%29.jpg/600px-Barcelona_-_panoramio_%2853%29.jpg"],
             "attributions": ["Open Data BCN" , "Wikimedia CC-BY: IonutDragu"],
