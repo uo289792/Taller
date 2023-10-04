@@ -16,7 +16,6 @@
                     "brand": "#5342AE",
                     "complementary": "#ffffff"
                 },
-                "place": "Barcelona",
                 "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/tree/main/docs/es/barcelona/beach",
                 "text_info": "This app is created by enthusiasts, based on Barcelona Open Data and Wikidata. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. Please, note that it's not an official app.",
                 "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Barcelona Open Data and Wikidata using automatic means. So, if you find inaccuracies we apologize.",
