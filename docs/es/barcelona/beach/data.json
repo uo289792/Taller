@@ -24,6 +24,18 @@
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=es/barcelona&template=update_request.md&title=Update%20Request"
             },
            "pois" : [
+                {
+                "description" : "Renault R26",
+                "more" : "El Renault R26 fue el coche que usó Renault F1 durante la temporada 2006 de Fórmula 1 y fue diseñado por Bob Bell. Correría en 2007 rebautizado como R27. Se podría decir que fue el mejor monoplaza que fabricó Renault F1, puesto que se mostró muy rápido y fiable y le permitió ganar el mundial de constructores con 206 puntos y el de pilotos con los 134 puntos de Fernando Alonso, siendo Giancarlo Fisichella cuarto (los mejores números de la marca francesa en la Fórmula 1). El R26 consiguió un total de 7 poles y ocho victorias, coronando a Renault y Alonso como campeones por segundo año consecutivo, tras dominar claramente la primera parte del año y resistir el arreón final de Ferrari y Michael Schumacher."
+                "images" : ["https://cdn-4.motorsport.com/images/amp/0kyjKrDY/s6/f1-hungarian-gp-2006-fernando-.jpg"],
+                
+            }, 
+            {
+                "description" : "AMR23",
+                "more" : "La espera ha llegado a su fin, tras varios y largos meses de expectación en aumento y renovadas esperanzas, ya conocemos el nuevo AMR23, al que hoy han quitado la manta en forma de la clásica Union Jack desde la nueva sede en construcción del equipo de Silverstone. Este monoplaza es el arma diseñada por Aston Martin con la que esperan resarcirse del pésimo comienzo de año en 2022 y continuar la optimista curva ascendente emprendida en la segunda mitad de la temporada pasada. Ahora junto con uno de los mayores activos del gran circo como lo es Fernando Alonso, bicampeón del Mudo de Fórmula 1 y reconocido en otras disciplinas, cuyo talento a los 41 años no se discute ya que además ha quedado patente en diversas ocasiones a lo largo de los últimos dos años que han marcado el regreso del ovetense al gran circo."
+                "images" : ["https://www.estadiodeportivo.com/imagenes/bf8d99b4-a5aa-4cb5-b96c-d6b60ea5c64d_1200x680.jpeg"],
+                
+            }
            
         ]
       }        
