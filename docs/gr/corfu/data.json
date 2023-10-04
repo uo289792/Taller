@@ -1,0 +1,411 @@
+{
+    "meta": {
+        "app_id": "es.espinr.gr.corfu",
+        "app_title": "Best of Kerkyra",
+        "version": 1,
+        "updated": "2022-08-01",
+        "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/corfu/data.json",
+        "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",        
+        "marketplace_url": ""
+    },
+    "content": {
+        "en": {
+            "app": {
+                "theme": {
+                    "brand": "#67DAD7",
+                    "complementary": "#BDF067"
+                },
+                "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/tree/main/docs/gr/corfu",
+                "text_info": "This app is based on crowdsourcing. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
+                "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
+                "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
+                "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/gr/corfu/#get-involved",
+                "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=gr/corfu&template=update_request.md&title=Update+Request"
+            },
+            "pois": [
+                {
+                    "id": "poi01",
+                    "lat": 39.624,
+                    "lon": 19.922,
+                    "name": "Old Town of Corfu",
+                    "description": "The Old Town of Corfu is a UNESCO World Heritage Site located on the eastern coast of the island.",
+                    "more": "With its narrow streets, Venetian architecture, and charming atmosphere, the Old Town is a captivating destination. Visitors can explore historic landmarks, such as the Old Fortress, St. Spyridon Church, and Liston Promenade. The town is also known for its vibrant nightlife, traditional taverns, and local crafts shops.",
+                    "images": [
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Old_Town_of_Corfu.jpg/640px-Old_Town_of_Corfu.jpg"
+                    ],
+                    "urls": [
+                      "https://www.visitgreece.gr/en/greek_islands/ionian_islands/corfu",
+                      "https://whc.unesco.org/en/list/978"
+                    ],
+                    "type": "Historical",
+                    "attributions": [
+                      "Images under CC BY-SA 4.0 on Wikimedia Commons (by Manditakats)"
+                    ]
+                  },
+                  {
+                    "id": "poi02",
+                    "lat": 39.601,
+                    "lon": 19.916,
+                    "name": "Paleokastritsa Beach",
+                    "description": "Paleokastritsa Beach is a stunning coastal area located on the western coast of Corfu.",
+                    "more": "Surrounded by rocky cliffs and crystal-clear turquoise waters, Paleokastritsa Beach is a paradise for nature lovers. The beach offers a combination of sandy and pebbly shores, perfect for sunbathing and swimming. Visitors can also explore the nearby caves, enjoy water sports activities, and take in the breathtaking views from the surrounding hills.",
+                    "images": [
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Corfu_Paleokastritsa_Beach_R01.jpg/640px-Corfu_Paleokastritsa_Beach_R01.jpg"
+                    ],
+                    "urls": [
+                      "https://www.visitgreece.gr/en/greek_islands/ionian_islands/corfu",
+                      "https://en.wikipedia.org/wiki/Paleokastritsa"
+                    ],
+                    "type": "Beach",
+                    "attributions": [
+                      "Images under CC BY 3.0 on Wikimedia Commons (by Marc Ryckaert)"
+                    ]
+                  },
+                  {
+                    "id": "poi03",
+                    "lat": 39.649,
+                    "lon": 19.917,
+                    "name": "Achilleion Palace",
+                    "description": "Achilleion Palace is a stunning neoclassical palace located in the village of Gastouri, Corfu.",
+                    "more": "Built as a summer retreat for Empress Elisabeth of Austria, also known as Sissi, Achilleion Palace is renowned for its beautiful gardens and impressive architecture. Visitors can explore the palace's opulent rooms, admire the classical statues, and enjoy panoramic views of the surrounding landscape. The palace is a testament to the grandeur and elegance of the bygone era.",
+                    "images": [
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Achilleion_Terrace_Corfu%281%29.jpg/640px-Achilleion_Terrace_Corfu%281%29.jpg"
+                    ],
+                    "urls": [
+                      "https://www.visitgreece.gr/en/greek_islands/ionian_islands/corfu",
+                      "https://en.wikipedia.org/wiki/Achilleion_(Corfu)"
+                    ],
+                    "type": "Palace",
+                    "attributions": [
+                      "Images under CC BY-SA 3.0 on Wikimedia Commons (by Thomas Schoch)"
+                    ]
+                  },
+                  {
+                    "id": "poi04",
+                    "lat": 39.588,
+                    "lon": 19.853,
+                    "name": "Sidari Beach",
+                    "description": "Sidari Beach is a popular sandy beach located in the village of Sidari, Corfu.",
+                    "more": "Known for its unique rock formations and turquoise waters, Sidari Beach offers a stunning coastal experience. Visitors can relax on the sandy shore, swim in the clear waters, and explore the fascinating rock formations known as the 'Canal d'Amour.' The beach is also surrounded by bars, restaurants, and shops, providing a lively atmosphere for beachgoers.",
+                    "images": [
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sidari_490_81%2C_Greece_-_panoramio_%283%29.jpg/640px-Sidari_490_81%2C_Greece_-_panoramio_%283%29.jpg",
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/KanaliTouErotaSidariCorfuJuly112022_01.jpg/640px-KanaliTouErotaSidariCorfuJuly112022_01.jpg"
+                    ],
+                    "urls": [
+                      "https://www.visitgreece.gr/en/greek_islands/ionian_islands/corfu",
+                      "https://en.wikipedia.org/wiki/Sidari"
+                    ],
+                    "type": "Beach",
+                    "attributions": [
+                      "Image under CC BY-SA 3.0 on Wikimedia Commons Unported (by Lucian Duma)",
+                      "Image under CC BY-SA 4.0 on Wikimedia Commons (by Hagai Agmon-Snir)"
+                    ]
+                  },
+                  {
+                    "id": "poi05",
+                    "lat": 39.700,
+                    "lon": 19.877,
+                    "name": "Vlacherna Monastery",
+                    "description": "Vlacherna Monastery is a picturesque monastery located on a small island connected by a narrow causeway to the Kanoni Peninsula in Corfu.",
+                    "more": "Surrounded by tranquil waters and lush greenery, Vlacherna Monastery is a symbol of Corfu's cultural heritage. Visitors can explore the monastery's beautiful courtyard, adorned with vibrant flowers, and observe the peaceful ambiance. The location also offers panoramic views of nearby Mouse Island and the Ionian Sea.",
+                    "images": [
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Corfu_Vlacherna_R01.jpg/640px-Corfu_Vlacherna_R01.jpg"
+                    ],
+                    "urls": [
+                      "https://www.visitgreece.gr/en/greek_islands/ionian_islands/corfu",
+                      "https://en.wikipedia.org/wiki/Vlacherna_Monastery"
+                    ],
+                    "type": "Monastery",
+                    "attributions": [
+                      "Image under Creative Commons Attribution 3.0 by Marc Ryckaert"
+                    ]
+                  },
+                  {
+                    "id": "poi06",
+                    "lat": 39.619,
+                    "lon": 19.919,
+                    "name": "Kanoni Peninsula",
+                    "description": "Kanoni Peninsula is a scenic area located in Corfu, offering stunning views and historical sites.",
+                    "more": "The Kanoni Peninsula is known for its iconic views of Mouse Island and Vlacherna Monastery. Visitors can relax at the charming cafes and restaurants overlooking the picturesque scene or take a boat tour to explore the nearby islets. The area also offers historical landmarks, including the remains of ancient Corcyra and the Archaeological Museum of Palaiopolis.",
+                    "images": [
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/A_distant_view_of_Vlacherna_and_Mouse_Island.jpg/640px-A_distant_view_of_Vlacherna_and_Mouse_Island.jpg"
+                    ],
+                    "urls": [
+                      "https://www.visitgreece.gr/en/greek_islands/ionian_islands/corfu",
+                      "https://en.wikipedia.org/wiki/Kanoni_(Corfu)"
+                    ],
+                    "type": "Scenic Spot",
+                    "attributions": [
+                      "Images under CC BY-SA 4.0 on Wikimedia Commons (by Dimitrios Nikolopoulos)"
+                    ]
+                  },
+                  {
+                    "id": "poi07",
+                    "lat": 39.683,
+                    "lon": 19.861,
+                    "name": "Mount Pantokrator",
+                    "description": "Mount Pantokrator is the highest mountain on the island of Corfu.",
+                    "more": "With an elevation of 906 meters, Mount Pantokrator offers breathtaking panoramic views of the island and the surrounding Ionian Sea. Visitors can hike to the summit, explore the mountain trails, and visit the Pantokrator Monastery, which dates back to the 14th century. The mountain is a popular destination for outdoor enthusiasts and nature lovers.",
+                    "images": [
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Korfu_%28GR%29%2C_Nissaki%2C_Pantokrator%2C_Antennen_--_2018_--_1008.jpg/640px-Korfu_%28GR%29%2C_Nissaki%2C_Pantokrator%2C_Antennen_--_2018_--_1008.jpg"
+                    ],
+                    "urls": [
+                      "https://www.visitgreece.gr/en/greek_islands/ionian_islands/corfu",
+                      "https://en.wikipedia.org/wiki/Mount_Pantokrator"
+                    ],
+                    "type": "Mountain",
+                    "attributions": [
+                      "Images under CC BY-SA 4.0 on Wikimedia Commons (by Dietmar Rabich)"
+                    ]
+                  },
+                  {
+                    "id": "poi08",
+                    "lat": 39.573,
+                    "lon": 19.898,
+                    "name": "Acharavi Beach",
+                    "description": "Acharavi Beach is a long sandy beach located on the northern coast of Corfu.",
+                    "more": "Stretching along the coast, Acharavi Beach offers a wide expanse of golden sand and clear waters. The beach is equipped with sunbeds and umbrellas, making it a perfect spot for sunbathing and relaxation. Visitors can enjoy water sports activities, beachfront restaurants, and explore the nearby village of Acharavi with its traditional charm.",
+                    "images": [
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Acharavi.jpg/640px-Acharavi.jpg"
+                    ],
+                    "urls": [
+                      "https://www.visitgreece.gr/en/greek_islands/ionian_islands/corfu",
+                      "https://en.wikipedia.org/wiki/Acharavi"
+                    ],
+                    "type": "Beach",
+                    "attributions": [
+                      "Image by Roquai"
+                    ]
+                  },
+                  {
+                    "id": "poi09",
+                    "lat": 39.593,
+                    "lon": 19.924,
+                    "name": "Kassiopi Castle",
+                    "description": "Kassiopi Castle is a Byzantine fortress located in the village of Kassiopi, Corfu.",
+                    "more": "Perched on a hilltop overlooking the village and the Ionian Sea, Kassiopi Castle is a historical landmark with a rich past. Visitors can explore the castle ruins, climb the towers for panoramic views, and learn about the castle's strategic importance in protecting the island. The surrounding area offers charming streets, traditional taverns, and scenic views of the coastline.",
+                    "images": [
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Korfu_%28GR%29%2C_Kassiopi%2C_Festung_--_2018_--_1074.jpg/640px-Korfu_%28GR%29%2C_Kassiopi%2C_Festung_--_2018_--_1074.jpg"
+                    ],
+                    "urls": [
+                      "https://www.visitgreece.gr/en/greek_islands/ionian_islands/corfu",
+                      "https://en.wikipedia.org/wiki/Kassiopi_Castle"
+                    ],
+                    "type": "Castle",
+                    "attributions": [
+                      "Image under CC BY-SA 4.0 on Wikimedia Commons (by Dietmar Rabich)"
+                    ]
+                  },
+                  {
+                    "id": "poi10",
+                    "lat": 39.511,
+                    "lon": 19.883,
+                    "name": "Glyfada Beach",
+                    "description": "Glyfada Beach is a popular sandy beach located on the western coast of Corfu.",
+                    "more": "With its soft golden sand and crystal-clear waters, Glyfada Beach offers a perfect setting for relaxation and leisure. The beach is surrounded by verdant hills and offers stunning views of the Ionian Sea. Visitors can enjoy sunbathing, swimming in the clear waters, and partake in various water sports activities. The beach is also equipped with beach bars and restaurants for a complete beach experience.",
+                    "images": [
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Glyfada_Beach_on_the_island_of_Corfu%2C_Greece_%2847818444242%29.jpg/640px-Glyfada_Beach_on_the_island_of_Corfu%2C_Greece_%2847818444242%29.jpg"
+                    ],
+                    "urls": [
+                      "https://www.visitgreece.gr/en/greek_islands/ionian_islands/corfu",
+                      "https://en.wikipedia.org/wiki/Glyfada,_Corfu"
+                    ],
+                    "type": "Beach",
+                    "attributions": [
+                      "Images under CC BY 2.0 on Wikimedia Commons (by dronepicr)"
+                    ]
+                  },
+                  {
+                    "id": "poi11",
+                    "lat": 39.601,
+                    "lon": 19.919,
+                    "name": "Corfu Museum of Asian Art",
+                    "description": "Corfu Museum of Asian Art is a unique museum located in Corfu Town.",
+                    "more": "The museum houses a remarkable collection of Asian art, including artifacts from China, Japan, India, and Southeast Asia. Visitors can explore the diverse collection of sculptures, ceramics, textiles, and paintings, showcasing the artistic traditions of various Asian cultures. The museum offers an intriguing cultural experience in the heart of Corfu.",
+                    "images": [
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2018-06-17_Museum_of_Asian_art_of_Corfu.jpg/640px-2018-06-17_Museum_of_Asian_art_of_Corfu.jpg"
+                    ],
+                    "urls": [
+                      "https://www.visitgreece.gr/en/greek_islands/ionian_islands/corfu",
+                      "https://en.wikipedia.org/wiki/Corfu_Museum_of_Asian_Art"
+                    ],
+                    "type": "Museum",
+                    "attributions": [
+                      "Image under CC BY-SA 4.0 on Wikimedia Commons (by Maksym Kozlenko)"
+                    ]
+                  },
+                  {
+                    "id": "poi12",
+                    "lat": 39.642,
+                    "lon": 19.926,
+                    "name": "Angelokastro",
+                    "description": "Angelokastro is a Byzantine castle perched on a hilltop overlooking the northwest coast of Corfu.",
+                    "more": "Built during the 13th century, Angelokastro is known for its strategic location and historical significance. Visitors can explore the castle ruins, including the defensive walls and towers, and enjoy panoramic views of the Ionian Sea. The castle offers a glimpse into Corfu's medieval past and provides a picturesque setting for photography enthusiasts.",
+                    "images": [
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Angelokastro_%28Corfu%29.jpg/640px-Angelokastro_%28Corfu%29.jpg"
+                    ],
+                    "urls": [
+                      "https://www.visitgreece.gr/en/greek_islands/ionian_islands/corfu",
+                      "https://en.wikipedia.org/wiki/Angelokastro"
+                    ],
+                    "type": "Castle",
+                    "attributions": [
+                      "Image under Creative Commons Attribution-Share Alike 3.0 Unported on Wikimedia Commons by Dr.K."
+                    ]
+                  },
+                  {
+                    "id": "poi13",
+                    "lat": 39.694,
+                    "lon": 19.843,
+                    "name": "Achilleion Gardens",
+                    "description": "Achilleion Gardens is a stunning botanical garden located near Gastouri, Corfu.",
+                    "more": "The gardens surround the famous Achilleion Palace and offer a tranquil escape with lush vegetation, colorful flowers, and impressive sculptures. Visitors can stroll through the well-maintained paths, admire the beautiful landscape, and discover the various plant species from around the world. The gardens provide a serene atmosphere and panoramic views of the surrounding area.",
+                    "images": [
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Corfu_Achilleion_R05.jpg/640px-Corfu_Achilleion_R05.jpg"
+                    ],
+                    "urls": [
+                      "https://www.visitgreece.gr/en/greek_islands/ionian_islands/corfu",
+                      "https://en.wikipedia.org/wiki/Achilleion"
+                    ],
+                    "type": "Botanical Garden",
+                    "attributions": [
+                      "Image under CC BY 3.0 on Wikimedia Commons (by Marc Ryckaert)"
+                    ]
+                  },
+                  {
+                    "id": "poi14",
+                    "lat": 39.681,
+                    "lon": 19.821,
+                    "name": "Corfu Donkey Rescue",
+                    "description": "Corfu Donkey Rescue is an animal sanctuary and rescue center located in the village of Vatos, Corfu.",
+                    "more": "The sanctuary is dedicated to the welfare and protection of donkeys on the island. Visitors can learn about the important work being done to care for and rehabilitate these gentle animals. The center offers guided tours, allowing visitors to interact with the donkeys, participate in grooming and feeding activities, and learn about their history and significance on the island.",
+                    "images": [
+                      "https://www.corfu-donkeys.com/images/donkeyhomepage/4.jpg"
+                    ],
+                    "urls": [
+                      "https://www.visitgreece.gr/en/greek_islands/ionian_islands/corfu",
+                      "https://www.corfu-donkeys.com/"
+                    ],
+                    "type": "Animal Sanctuary",
+                    "attributions": [
+                      "Images by Corfu Donkey Rescue"
+                    ]
+                  },
+                  {
+                    "id": "poi15",
+                    "lat": 39.619,
+                    "lon": 19.922,
+                    "name": "Mirtiotissa Beach",
+                    "description": "Mirtiotissa Beach is a hidden gem located on the western coast of Corfu.",
+                    "more": "Nestled between cliffs and lush greenery, Mirtiotissa Beach offers a secluded and natural setting. It is known for its crystal-clear turquoise waters and soft golden sand. Visitors can enjoy sunbathing in the peaceful atmosphere or explore the nearby walking trails for stunning views of the coastline. Mirtiotissa Beach is a popular choice for those seeking tranquility and a closer connection to nature.",
+                    "images": [
+                      "https://visit.corfu.gr/web-assets/uploads/2021/02/mirtiotissa-corfu-beach.jpg"
+                    ],
+                    "urls": [
+                      "https://www.visitgreece.gr/en/greek_islands/ionian_islands/corfu",
+                      "https://en.wikipedia.org/wiki/Mirtiotissa"
+                    ],
+                    "type": "Beach",
+                    "attributions": [
+                      "Image linked from visit.corfu.gr"
+                    ]
+                  },
+                  {
+                    "id": "poi16",
+                    "lat": 39.623,
+                    "lon": 19.912,
+                    "name": "Spianada Square",
+                    "description": "Spianada Square is the largest square in Greece located in Corfu Town.",
+                    "more": "Spianada Square is a central gathering place in Corfu and is known for its spaciousness and historical significance. The square offers a perfect spot for a leisurely stroll or a relaxing break on one of the benches. Visitors can enjoy the lush greenery, fountains, and the view of the Old Fortress. The square is also a venue for various cultural events and festivals throughout the year.",
+                    "images": [
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cricket_at_Spianada%2C_Corfu.jpg/640px-Cricket_at_Spianada%2C_Corfu.jpg"
+                    ],
+                    "urls": [
+                      "https://www.visitgreece.gr/en/greek_islands/ionian_islands/corfu",
+                      "https://en.wikipedia.org/wiki/Spianada_Square"
+                    ],
+                    "type": "Square",
+                    "attributions": [
+                      "Images under CC BY-SA 4.0 on Wikimedia Commons (by Like tears in rain)"
+                    ]
+                  },
+                  {
+                    "id": "poi17",
+                    "lat": 39.610,
+                    "lon": 19.921,
+                    "name": "Kanoni Windmill",
+                    "description": "Kanoni Windmill is an iconic landmark situated in the Kanoni area of Corfu.",
+                    "more": "Overlooking the Mouse Island and the Ionian Sea, the Kanoni Windmill is a charming sight to behold. It offers panoramic views of the surrounding landscape, including the picturesque Vlacherna Monastery and the airport runway. Visitors can enjoy the beauty of the windmill and the stunning natural scenery that surrounds it.",
+                    "images": [
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%D0%9A%D0%BE%D1%80%D1%84%D1%83%2C_%D0%9A%D0%B5%D1%80%D0%BA%D0%B8%D1%80%D0%B0_-_panoramio_%2824%29.jpg/320px-%D0%9A%D0%BE%D1%80%D1%84%D1%83%2C_%D0%9A%D0%B5%D1%80%D0%BA%D0%B8%D1%80%D0%B0_-_panoramio_%2824%29.jpg"
+                    ],
+                    "urls": [
+                      "https://www.visitgreece.gr/en/greek_islands/ionian_islands/corfu",
+                      "https://en.wikipedia.org/wiki/Kanoni_(Corfu)"
+                    ],
+                    "type": "Landmark",
+                    "attributions": [
+                      "Image under CC BY 3.0 on Wikimedia Commons (by Дмитрий Мозжухин)"
+                    ]
+                  },
+                  {
+                    "id": "poi18",
+                    "lat": 39.665,
+                    "lon": 19.766,
+                    "name": "Agios Gordios Beach",
+                    "description": "Agios Gordios Beach is a beautiful sandy beach located on the western coast of Corfu.",
+                    "more": "Surrounded by cliffs and lush green hills, Agios Gordios Beach offers a picturesque coastal setting. The beach is known for its clear waters, soft sand, and stunning sunsets. Visitors can relax under the shade of umbrellas, indulge in water sports activities, or explore the nearby caves and rock formations. The beach is also lined with beach bars and taverns, offering a range of dining options.",
+                    "images": [
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Strand_von_Agios_Gordios_04.jpg/640px-Strand_von_Agios_Gordios_04.jpg"
+                    ],
+                    "urls": [
+                      "https://www.visitgreece.gr/en/greek_islands/ionian_islands/corfu",
+                      "https://en.wikipedia.org/wiki/Agios_Gordios"
+                    ],
+                    "type": "Beach",
+                    "attributions": [
+                      "Image under CC BY-SA 4.0 on Wikimedia Commons by Kritzolina"
+                    ]
+                  },
+                  {
+                    "id": "poi19",
+                    "lat": 39.651,
+                    "lon": 19.918,
+                    "name": "Mon Repos Palace",
+                    "description": "Mon Repos Palace is a neoclassical palace located in the Kanoni area of Corfu.",
+                    "more": "Surrounded by lush gardens, Mon Repos Palace is a historic landmark with a rich heritage. The palace was built in the 19th century and served as a summer residence for the British Commissioner. Today, it houses a museum showcasing archaeological artifacts from ancient Corfu. Visitors can explore the palace grounds, stroll through the gardens, and learn about the island's history.",
+                    "images": [
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Villa_Mon_Repos.JPG/640px-Villa_Mon_Repos.JPG"
+                    ],
+                    "urls": [
+                      "https://www.visitgreece.gr/en/greek_islands/ionian_islands/corfu",
+                      "https://en.wikipedia.org/wiki/Mon_Repos_(Corfu)"
+                    ],
+                    "type": "Palace",
+                    "attributions": [
+                      "Image under CC BY-SA 3.0 on Wikimedia Commons (by ChristianeB)"
+                    ]
+                  },
+                  {
+                    "id": "poi20",
+                    "lat": 39.627,
+                    "lon": 19.925,
+                    "name": "New Fortress",
+                    "description": "New Fortress is a historic fortress located on a hill in Corfu Town.",
+                    "more": "Built by the Venetians in the 16th century, the New Fortress is an imposing structure that offers commanding views of the town and the surrounding sea. Visitors can explore the fortress's ramparts, tunnels, and bastions, and enjoy panoramic vistas from the top. The fortress also houses a small museum that provides insights into its history and significance. It is a popular attraction for history enthusiasts and offers a glimpse into the island's past.",
+                    "images": [
+                      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Battlements_of_Neo_Frourio_%28New_Fortress%29_-_Corfu_Town_-_Corfu_-_Greece_%2827413197117%29.jpg/640px-Battlements_of_Neo_Frourio_%28New_Fortress%29_-_Corfu_Town_-_Corfu_-_Greece_%2827413197117%29.jpg"
+                    ],
+                    "urls": [
+                      "https://www.visitgreece.gr/en/greek_islands/ionian_islands/corfu",
+                      "https://en.wikipedia.org/wiki/New_Fortress_(Corfu)"
+                    ],
+                    "type": "Fortress",
+                    "attributions": [
+                      "Images under CC BY-SA 2.0 on Wikimedia Commons by Adam Jones from Kelowna, BC, Canada"
+                    ]
+                  }
+            ]
+        }
+    }
+}
